@@ -8,9 +8,9 @@ int main(){
     
     char*rotationencrypt (char *sample1, int key);  
     
-    int count, key; //key count initalise for shifting 
+    int count, key; //key count initalised for shifting 
     char letter;
-    printf("message to encrypt");
+    printf("message to encrypt"); //The user will type a message to encrypt 
     scanf(  );
     
     for //need a for loop
